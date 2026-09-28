@@ -1,0 +1,16 @@
+{
+  "id": "wild_encounters",
+  "name": "Wild Encounters",
+  "version": "0.4.0",
+  "api_version": 41,
+  "entry": "mod.gd",
+  "description": "Choose which Pokémon appears in normal wild encounter tables. Encounter levels and rates stay vanilla.",
+  "games": [
+    "red",
+    "blue",
+    "yellow",
+    "gold",
+    "silver",
+    "crystal"
+  ]
+}
